@@ -5,6 +5,7 @@ public class MyTime {
 
     public MyTime() {
         this(0, 0, 0);
+        
     }
 
     public MyTime(int hour, int minute, int second) {
